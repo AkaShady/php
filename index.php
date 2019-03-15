@@ -1,3 +1,7 @@
-<?
- echo "Olá mundo!";
+<? 
+
+ echo "Olá mundo! :P";
+
+ echo "Olá shady!!!" 
+
 ?>
